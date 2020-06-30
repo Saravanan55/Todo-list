@@ -1,3 +1,3 @@
 # Todo-list
 
-## Personel Todo-list
+## Personal Todo-list
